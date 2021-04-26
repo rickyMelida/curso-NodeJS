@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio_4",
+  "version": "0.0.1",
+  "description": "Esto es un ejemplo de npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "primer",
+    "ejemplo"
+  ],
+  "author": "rickyMelida",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  }
+}
